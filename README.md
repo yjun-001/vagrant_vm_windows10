@@ -10,7 +10,7 @@ Create VirtualBox VM in Windows 10 by using Vagrant
     (https://releases.hashicorp.com/vagrant/2.3.1/vagrant_2.3.1_windows_amd64.msi)
 
 ### Install procedures:
-  Install above pre-downloaded windows package.
+#### Install above pre-downloaded windows package.
   - VirtualBox & Vagrant installation needs the local Windows administrator privilege.
 
 #### open cmder console & type following commands
