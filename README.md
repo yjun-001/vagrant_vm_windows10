@@ -1,5 +1,5 @@
 # vagrant_vm_windows10
-Create vagrant virtual box VM in windows 10
+Create VirtualBox VM in windows 10 by using Vagrant
 
 ## Tools download & preparation:
 - cmder : Portable console emulator for Windows 
