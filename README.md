@@ -18,7 +18,7 @@ Create VirtualBox VM in Windows 10 by using Vagrant
   - mkdir vagrant_ubuntu
   - cd vagrant_ubuntu
   ```
-  #### download ubuntu 20.04 box image file
+  #### Vagrant boxes image file can be download at [https://app.vagrantup.com/boxes/search?provider=virtualbox](https://app.vagrantup.com/boxes/search?provider=virtualbox), following are using ubuntu 20.04 boxes file
   ```
   - vagrant.exe box add generic/ubuntu2004
   - vagrant.exe box list
