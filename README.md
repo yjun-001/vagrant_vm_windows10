@@ -1,7 +1,7 @@
 # vagrant_vm_windows10
-Create VirtualBox VM in windows 10 by using Vagrant
+Create VirtualBox VM in Windows 10 by using Vagrant
 
-## Tools download & preparation:
+### Tools download & preparation:
 - cmder : Portable console emulator for Windows 
     (https://cmder.app/)
 - VirtualBox: Oracle VirtualBox 6.1.38 platform packages 
@@ -11,7 +11,7 @@ Create VirtualBox VM in windows 10 by using Vagrant
 
 ### Install procedures:
 - Install above pre-downloaded windows package.
-- VirtualBox & Vagrant installation need windows local administrator privilege.
+- VirtualBox & Vagrant installation needs the local Windows administrator privilege.
 
 ### open cmder console & type following commands
   ```
@@ -22,6 +22,7 @@ Create VirtualBox VM in windows 10 by using Vagrant
   ```
   - vagrant.exe box add generic/ubuntu2004
   - vagrant.exe box list
+  generic/ubuntu2004 (virtualbox, 4.1.14)
   ```
   #### initialize & create a virtualbox VM from image file, start VM
   ```
