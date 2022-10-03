@@ -1,10 +1,13 @@
 # vagrant_vm_windows10
-create vagrant virtual box VM in windows 10
+Create vagrant virtual box VM in windows 10
 
 # Tools download & preparation:
-cmder : Portable console emulator for Windows (https://cmder.app/)
-VirtualBox: Oracle VirtualBox 6.1.38 platform packages (https://download.virtualbox.org/virtualbox/6.1.38/VirtualBox-6.1.38-153438-Win.exe)
-Vagrant: HashiCorp Vagrant 2.3.1 (https://releases.hashicorp.com/vagrant/2.3.1/vagrant_2.3.1_windows_amd64.msi)
+cmder : Portable console emulator for Windows 
+    (https://cmder.app/)
+VirtualBox: Oracle VirtualBox 6.1.38 platform packages 
+    (https://download.virtualbox.org/virtualbox/6.1.38/VirtualBox-6.1.38-153438-Win.exe)
+Vagrant: HashiCorp Vagrant 2.3.1 
+    (https://releases.hashicorp.com/vagrant/2.3.1/vagrant_2.3.1_windows_amd64.msi)
 
 # Install procedures:
 Install above pre-downloaded windows package.
