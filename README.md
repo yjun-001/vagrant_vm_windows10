@@ -1,4 +1,4 @@
-# vagrant_vm_windows10
+# Build local deveoplement in Windows 10 using vagrant & virtualbox (vagrant_vm_windows10)
 - Setup Vagrant local developoment in Windows 10 
 - Create VirtualBox VM by using Vagrant
 
@@ -13,6 +13,9 @@
 ### Install procedures:
 #### Install above pre-downloaded windows package.
   - VirtualBox & Vagrant installation needs the local Windows administrator privilege.
+
+### Environment Working Diagram:
+<img src="https://github.com/yjun-001/vagrant_vm_windows10/blob/9b2bf33540d1ec9160149c7b3e75a8f1d4b39c4c/images/Vagrant-Windows10-2022-11-11-1510.svg">
 
 #### open cmder console & type following commands
 ```
